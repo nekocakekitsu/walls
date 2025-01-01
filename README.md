@@ -7,3 +7,13 @@ _wallpapers ive curated over time_
 
 wanna add your own photos to this repo?
 simply create a merge request with the photo attached in to a suitable folder or create your own folder if needed
+
+
+
+
+
+## about credits
+
+> wheres the credits? dont you wanna credit the creators?
+
+find them yourself, google lens is free after all. i don't have all day to reverse search all these photos after all. 
