@@ -16,4 +16,4 @@ simply create a merge request with the photo attached in to a suitable folder or
 
 > wheres the credits? dont you wanna credit the creators?
 
-find them yourself, google lens is free after all. i don't have all day to reverse search all these photos after all. 
+find them yourself, google lens is free after all. i cant search all the wallpapers in this repo to find credits, it will simply take to much time. 
