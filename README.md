@@ -6,7 +6,9 @@ _wallpapers ive curated over time_
 ***hey you, yes you!***
 
 wanna add your own photos to this repo?
-simply create a merge request with the photo attached in to a suitable folder or create your own folder if needed
+simply create a merge request with the photo attached in to a suitable folder or create your own folder if needed. 
+
+also, check the rules for uploading wallpapers below
 
 
 
