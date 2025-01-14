@@ -21,7 +21,7 @@ good: ![ModernArchitecture](https://github.com/user-attachments/assets/a7e7cc36-
 
 
 
-bad: ![a_street_with_buildings_and_signs](https://github.com/user-attachments/assets/68a07c8f-598b-4302-9c1d-daa51f309e11) ![Here](https://github.com/user-attachments/assets/b27a4af7-5691-40fe-b399-964a4b55ce83) ![Retro](https://github.com/user-attachments/assets/16d1c0a4-4292-4433-9176-c68c784f7ae4)
+bad: ![a_street_with_buildings_and_signs](https://github.com/user-attachments/assets/68a07c8f-598b-4302-9c1d-daa51f309e11) ![Here](https://github.com/user-attachments/assets/b27a4af7-5691-40fe-b399-964a4b55ce83) ![Retro](https://github.com/user-attachments/assets/16d1c0a4-4292-4433-9176-c68c784f7ae4) you can see a theme with these photos where they all look kinda bland and nonsenseical. thisis what we want to avoid.
 
 3. no nsfw
 4. thats it
